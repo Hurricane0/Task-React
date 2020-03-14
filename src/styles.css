@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.item {
+  border: 1px solid rgb(48, 48, 48);
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 300px;
+}
+.range {
+  width: 100%;
+}
+.preloader {
+  font-size: 24px;
+}
